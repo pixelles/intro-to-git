@@ -1,6 +1,11 @@
-Intro to Git
-Trish's new Git repo.
+# Intro to GitHub
 
-More text in my readme.
+Markdown is fun to use and make simple text files.
 
-Sup? New text.
+Another, second paragraph in Markdown.
+
+## Markdown Docs
+[Docs](http://daringfireball.net/projects/markdown/syntax)
+
+- List item 1
+- List item 2
